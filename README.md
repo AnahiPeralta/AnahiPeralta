@@ -31,7 +31,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" alt="react" width="30" height="30"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="30" height="30"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="python" width="30" height="30"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" title="php" height="30"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" title="php" height="27"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="java" alt="java" width="30" height="30"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="sql" alt="sql" width="30" height="30"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="mongobd" alt="mongobd" width="30" height="30"/>&nbsp;
