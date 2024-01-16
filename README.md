@@ -5,7 +5,7 @@
 <h3 align="center">Desarolladora Web FullStack | Diseñadora gráfica Freelance | Estudiante de Análisis de Sistemas</h3>
 
 <p align="left">
-  Soy alguien creativa que da lo mejor de si en cada proyecto, enfocada en desarrollar plataformas <b>intuitivas, atractivas y funcionales</b> bajo metodologías ágiles y en constante aprendizaje para brindar las mejores soluciones. Si buscas a una persona apasionada, comprometida con su trabajo y de confianza ¡No dudes en contáctarme! 
+  Soy alguien creativa que da lo mejor de si en cada proyecto, enfocada en desarrollar plataformas <b>intuitivas, atractivas y funcionales</b> bajo metodologías ágiles y en constante aprendizaje para brindar las mejores soluciones. <br> Si buscas a una persona apasionada, comprometida con su trabajo y de confianza ¡No dudes en contáctarme! 
 </p>
 
 - 🤝 Actualmente brindo **Servicios de diseño gráfico y Desarrollo Web de forma Freelance en CodeVerse**
