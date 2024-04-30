@@ -2,7 +2,7 @@
     Hola         
     <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="27" height="27"/> 
     , soy Anahí Peralta</h1>
-<h3 align="center">Desarolladora Web FullStack | Diseñadora gráfica Freelance | Estudiante de Análisis de Sistemas</h3>
+<h3 align="center">Desarolladora Web FullStack | Estudiante de Análisis de Sistemas | Diseñadora gráfica Freelance</h3>
 
 <p align="left">
   Soy alguien creativa que da lo mejor de si en cada proyecto, enfocada en desarrollar plataformas <b>intuitivas, atractivas y funcionales</b> bajo metodologías ágiles y en constante aprendizaje para brindar las mejores soluciones. <br> Si buscas a una persona apasionada, comprometida con su trabajo y de confianza ¡No dudes en contáctarme! 
